@@ -1,113 +1,117 @@
-胖东来
-于东来
+# --- Bluechip / Large Cap ---
+ASELS
+THYAO
+KCHOL
+TUPRS
+EREGL
+BIMAS
+FROTO
+ISCTR
+GARAN
+YKBNK
+VAKBN
+HALKB
+PGSUS
+TCELL
+TAVHL
+PETKM
+TOASO
 
-DeepSeek
-梁文锋
+# --- Growth & Technology ---
+ASELSAN
+HAVELSAN
+ROKETSAN
+TUSAŞ
+Türksat
+Baykar
+TEI
+STM
+Togg
+Trendyol
+Hepsiburada
+Turkcell
+Superonline
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+# --- Popular Mid Cap / Retail Sentiment ---
+SASA
+HEKTS
+KONTR
+ASTOR
+ALARK
+ISMEN
+DOAS
+GESAN
+CWENE
+SMRTG
+MIATK
+KTLEV
+KZBGY
+RUBNS
 
-比亚迪
-王传福
+# --- Fintech / Bank / Payment ---
+Papara
+Paycell
+Paycore
+Ininal
+Midas
+BinanceTR
+Findeks
+KKB
+BKM
+TCMB
+BDDK
+SPK
 
-大疆
-DJI
+# --- Sektörel Kelimeler ---
+Savunma
+Enerji
+Elektrik
+Yenilenebilir
+Güneş
+Rüzgar
+Yatırım
+Finans
+Sermaye
+Arz
+Talep
+KAP
+Temettü
+Halka Arz
+Yorum
+Değerleme
+Fundamental
+Teknik Analiz
 
-宇树
-王兴兴
+# --- CEO / Founder / Influencer ---
+Haluk Bayraktar
+Selçuk Bayraktar
+Fatih Altaylı
+Murat Muratoğlu
+Atilla Yeşilada
+İslam Memiş
+Tunç Şatıroğlu
+Erdal Göç
 
-智元
-灵犀
-稚晖君
-彭志辉
+# --- Macro / Global Finance Triggers ---
+Dolar
+Altın
+Faiz
+Enflasyon
+Brent
+Petrol
+FED
+ECB
+Moody's
+Fitch
+S&P
 
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
-人工智能
-
-自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
+# --- Exclude Noise (gürültü) ---
+!otomobil
+!tarif
+!yemek
+!maç
+!dizi
+!magazin
+!burç
+!idol
+!kripto_shit
